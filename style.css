@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding: 0;
+    font-size: large;
+    margin-left: 70px;
+    max-width: 650px;
+}
+
+hr{ 
+    border: solid;
+    border-width: 2px;
+    max-width: 540px;
+    margin-top: 30px;
+    margin-left: 0;
+}
+.topic{
+    color: green;
+}
+
+span{
+    color: rgb(0, 89, 255);
+
+}
